@@ -11,11 +11,12 @@ Last Updated: Nov 10th, 2009
    * Eclipse + GCC ?
    * Microsoft Visual Studio
    * Borland (are they still even a player ?)
-  * Write up basic instruction on getting environment setup, and access to good code SVN.
+  * Write up basic instruction on getting environment setup, and access to code in SVN.
 
 = To Do at next meeting =
   * Get Team Member e-mail addresses.
   * Pass out paperwork:
    * Instructions on downloading & installing development environment.
+   * Instructions on getting SVN client setup (TortisSvn?).
    * Instructions on getting code from the SVN repository.
    * My e-mail / contact info (so question can be asked before next meeting).
