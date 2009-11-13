@@ -20,3 +20,9 @@ Last Updated: Nov 10th, 2009
    * Instructions on getting SVN client setup (TortisSvn?).
    * Instructions on getting code from the SVN repository.
    * My e-mail / contact info (so question can be asked before next meeting).
+
+= Decisions =
+ * Go with Visual Studio Express 2008 C++
+  * [http://go.microsoft.com/fwlink/?LinkID=167871 Link to Visual Studio Express 2008 C++ installer].
+ * Go with TortisSVN
+  * [http://downloads.sourceforge.net/tortoisesvn/TortoiseSVN-1.6.6.17493-win32-svn-1.6.6.msi?download Link to TortisSVN 32-bit windows download]
