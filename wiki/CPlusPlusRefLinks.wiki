@@ -11,3 +11,5 @@
 = FIRST Robotics Specific References =
  * [http://forums.usfirst.org/forumdisplay.php?f=1263 2010 C++ Beta Test Forums]
  * [http://www.chiefdelphi.com/forums/forumdisplay.php?f=183 Chief Delphi Forms on C++]
+ * [http://controlsystem.neofra.com/ Large list of WindRiver / C++ resources]
+ * [http://users.wpi.edu/~bamiller/WPIRoboticsLibrary/index.html Doxygen Build of WPI library code (not sure if this is the latest)]
