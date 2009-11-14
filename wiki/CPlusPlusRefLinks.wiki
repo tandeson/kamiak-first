@@ -1,0 +1,13 @@
+#labels Featured
+#Links to available programming reference material.
+
+= Introduction =
+ This page is used to keep web links to useful documentation and forums on C++ programing in general, and on using C++ to write robot software for the First Robotics Challenge specifically.
+
+= C++ General References =
+ * [http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html#basics Basic language information]
+ * [http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html Collection of C++ overviews]
+
+= FIRST Robotics Specific References =
+ * [http://forums.usfirst.org/forumdisplay.php?f=1263 2010 C++ Beta Test Forums]
+ * [http://www.chiefdelphi.com/forums/forumdisplay.php?f=183 Chief Delphi Forms on C++]
