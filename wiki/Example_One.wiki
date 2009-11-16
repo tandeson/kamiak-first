@@ -1,0 +1,26 @@
+= Summary =
+ Goals:
+  * Get a IDE (Integrated Development Enviorment) installed
+  * Get a SVN client installed
+  * Learn the basics of the IDE / SVN client.
+  * Build a VERY simple program, look at the parts.
+
+ Files:
+  * example1.cpp
+
+= Instructions =
+
+*First - be sure you have permission to install software on the computer your going to use. TortisSVN and Microsoft Visual Studio 2008 Express edition are free. If the person who owns the computer has any questions about these program, they can e-mail me.
+
+Visual Studio Express 2008 C++ Takes up about 1 GB on the hard drive.
+TortoiseSVN takes up about 20 MB on the hard drive.*
+
+ 1. Install Visual Studio Express.
+  1. Download the Visual Studio 2008 Express C++ installer from [http://www.microsoft.com/express/download/ here]. (See the bottom of the page).
+  1. Once the download is finished, launch the installer.
+ 1. Install TortoiseSVN.
+ 1. Download the Example1.cpp file
+ 1. Create a Visual Studio Project with the Example1.cpp file
+ 1. Build the file into a program.
+ 1. Run it!
+ 1. Optional: Make changes and see what happens. 
