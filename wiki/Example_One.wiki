@@ -28,10 +28,22 @@ TortoiseSVN takes up about 20 MB on the hard drive.*
   1. Click "next"
   1. Accept the license, and click "next".
   1. Un-select "Microsoft Silverlight Runtime" and "Microsoft SQL Server 2008", we won't be using either one of these. Then click "next".
-  1. Wait while Visual Studio installs itself.
+  1. click "next".
+  1. Wait while Visual Studio downloads and installs itself.
+  1. click "exit", the install should be complete.
  1. Install TortoiseSVN.
+  1. Download the TortoiseSVN installer from [http://tortoisesvn.net/downloads here].
+   * You probably want the 32-bit installer listed first. If your not sure, use download that one.
+  1. Once the installer downloads, launch it.
+  1. click "next".
+  1. Accept the License, and click "next".
+  1. click "next".
+  1. click "install", and wait while the client installs. 
+  1. click "finish"
+  1. When asked, reset your computer by clicking "yes".
  1. Download the Example1.cpp file
  1. Create a Visual Studio Project with the Example1.cpp file
+  1. Launch "Microsoft Visual C++ 2008 Express Edition"
  1. Build the file into a program.
  1. Run it!
  1. Optional: Make changes and see what happens. 
