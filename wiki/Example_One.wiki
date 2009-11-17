@@ -8,6 +8,13 @@
  Files:
   * example1.cpp
 
+ Assumptions:
+  * You are using a Windows XP / Windows Vista / Windows 7 PC
+  * You do not have a C++ IDE Installed
+  * You do not have a SVN client installed.
+
+  If any of these assumptions are wrong, e-mail me so I can work with you to provide instructions which will work for you!
+
 = Instructions =
 
 *First - be sure you have permission to install software on the computer your going to use. TortisSVN and Microsoft Visual Studio 2008 Express edition are free. If the person who owns the computer has any questions about these program, they can e-mail me.
@@ -17,7 +24,11 @@ TortoiseSVN takes up about 20 MB on the hard drive.*
 
  1. Install Visual Studio Express.
   1. Download the Visual Studio 2008 Express C++ installer from [http://www.microsoft.com/express/download/ here]. (See the bottom of the page).
-  1. Once the download is finished, launch the installer.
+  1. Once the download is finished, launch the installer. (e.g. double click on vcsetup.exe)
+  1. Click "next"
+  1. Accept the license, and click "next".
+  1. Un-select "Microsoft Silverlight Runtime" and "Microsoft SQL Server 2008", we won't be using either one of these. Then click "next".
+  1. Wait while Visual Studio installs itself.
  1. Install TortoiseSVN.
  1. Download the Example1.cpp file
  1. Create a Visual Studio Project with the Example1.cpp file
