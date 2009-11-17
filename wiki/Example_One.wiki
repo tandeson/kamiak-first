@@ -40,8 +40,23 @@ TortoiseSVN takes up about 20 MB on the hard drive.*
   1. click "next".
   1. click "install", and wait while the client installs. 
   1. click "finish"
-  1. When asked, reset your computer by clicking "yes".
+  1. When asked, restart your computer by clicking "yes".
  1. Download the Example1.cpp file
+  1. Open up "My Documents".
+  1. Open up the "Visual Studio 2008" folder.
+   * If this folder doesn't exist, then create it.
+  1. Open the "Projects" folder.
+   * If this folder doesn't exist, then create it.
+  1. Right click to get a menu, select "SVN Checkout...".
+   * If you don't see "SVN Checkout..." then TortoiseSVN is not properly installed.
+  1. Copy the line below into the field "URL of Repository:".
+{{{
+http://kamiak-first.googlecode.com/svn/trunk/learningCpp/trunk/Example1
+}}}
+  1. Make sure the last part of the line for "Checkout Directory" is \Example1
+  1. Click "ok".
+  1. Wait for the download to finish, and then click "ok".
+  * You should now have a directory called Example1, with one file in it called example1.cpp. You may or may not see a directory called .svn (depending on your windows settings). If you see the file and directory, you've successfully used SVN to checkout a file! Congratulations!
  1. Create a Visual Studio Project with the Example1.cpp file
   1. Launch "Microsoft Visual C++ 2008 Express Edition"
  1. Build the file into a program.
