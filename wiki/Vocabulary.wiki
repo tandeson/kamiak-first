@@ -1,0 +1,13 @@
+= Introduction =
+
+Notes on terms we talked about.
+
+
+= Nov 18th 2009 Meeting =
+ * Vocab:
+ * Char: one byte
+ * Int : two byte
+ * Binary:
+ * Long: four byte
+ * Main:
+ * Byte:
