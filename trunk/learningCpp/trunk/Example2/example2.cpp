@@ -56,9 +56,9 @@ int main()
 	cout << "Hello World\n";
     
     // Declare two variables. Both are type int. numberBefore is 
-    //  initialized to 5, and numberAfter is not initialized.
+    //  initialized to 5, and numberAfter is initialized to 0.
     int numberBefore = 5;
-    int numberAfter;
+    int numberAfter = 0;
 
     // Show the user the value of our two numbers
     cout << " Before we add, numberBefore is " << numberBefore;
