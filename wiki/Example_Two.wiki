@@ -1,0 +1,62 @@
+= Summary =
+ Goals:
+  * Learn how to declare and use a Function
+ 
+ Files:
+  * example2.cpp
+  * Learn a little more about variables.
+  * Learn about type casting.
+
+ Assumptions:
+  * You have completed Example One
+  * You are using a Windows XP / Windows Vista / Windows 7 PC
+
+  If any of these assumptions are wrong, e-mail me so I can work with you to provide instructions which will work for you!
+
+= Instructions =
+ 1. Download the Example2.cpp file
+  1. Open up "My Documents".
+  1. Open up the "Visual Studio 2008" folder.
+  1. Open the "Projects" folder.
+  1. Right click to get a menu, select "SVN Checkout...".
+  1. Copy the line below into the field "URL of Repository:".
+{{{
+http://kamiak-first.googlecode.com/svn/trunk/learningCpp/trunk/Example2
+}}}
+  1. Make sure the last part of the line for "Checkout Directory" is \Example2
+  1. Click "ok".
+  1. Wait for the download to finish, and then click "ok".
+  * You should now have a directory called Example2, with one file in it called example2.cpp. You may or may not see a directory called .svn (depending on your windows settings).
+ 1. Create a Visual Studio Project with the Example2.cpp file
+  1. Launch "Microsoft Visual C++ 2008 Express Edition"
+   * I'm running XP, so it's Start->Programs->Microsoft Visual Studio Express Edition 2008->Microsoft Visual Studio C++ Express Edition 2008. In vista or windows 7 I think you can just type in Visual Studio and pick Microsoft Visual Studio C++ Express Edition 2008 from the results.
+  1. Create a new project by selecting File->new->project.
+  1. Select Project Type: General
+  1. Select Template Empty Project.
+  1. for the name, type in Example2
+  1. Click "ok".
+  1. Right click on "source file" and select add->existing item...
+  1. Select example2.cpp and click "Add".
+  1. You should now see "example1.cpp" listed on the left of the screen under source files.
+ 1. Build the file into a program.
+  1. Select build -> build solution from the menu.
+  1. You should see an output something like
+{{{
+------ Build started: Project: Example2, Configuration: Debug Win32 ------
+Compiling...
+example2.cpp
+Linking...
+Embedding manifest...
+Build log was saved at "file://c:\Documents and Settings\Beaker\My Documents\Visual Studio 2008\Projects\Example2\Debug\BuildLog.htm"
+Example2 - 0 error(s), 0 warning(s)
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+}}}
+ 1. Run it!
+  1. If you got here, your almost done!
+  1. Select Debug->Start without debugging.
+  1. A new window should open which simply says "Hello World".
+  1. Congratulations! You've written and run your first program.
+  1. Now take some time to read over example1.cpp and see if you can follow what's happening.
+ 1. Optional: Make changes and see what happens. 
+  1. Can you figure out how to add you name to the program output?
+  1. Can you make multiple lines of data come out?
