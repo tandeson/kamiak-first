@@ -5,6 +5,8 @@
  Files:
   * example2.cpp
   * Learn a little more about variables.
+   * Example of what happens what a variable overflows. In other words, if a variable has a maximum of 255, what happens we we put in 200 and add 100?
+   * Examples of declaring (or telling the compiler about) variables.
   * Learn about type casting.
 
  Assumptions:
@@ -29,7 +31,6 @@ http://kamiak-first.googlecode.com/svn/trunk/learningCpp/trunk/Example2
   * You should now have a directory called Example2, with one file in it called example2.cpp. You may or may not see a directory called .svn (depending on your windows settings).
  1. Create a Visual Studio Project with the Example2.cpp file
   1. Launch "Microsoft Visual C++ 2008 Express Edition"
-   * I'm running XP, so it's Start->Programs->Microsoft Visual Studio Express Edition 2008->Microsoft Visual Studio C++ Express Edition 2008. In vista or windows 7 I think you can just type in Visual Studio and pick Microsoft Visual Studio C++ Express Edition 2008 from the results.
   1. Create a new project by selecting File->new->project.
   1. Select Project Type: General
   1. Select Template Empty Project.
