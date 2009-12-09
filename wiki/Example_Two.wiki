@@ -55,9 +55,19 @@ Example2 - 0 error(s), 0 warning(s)
  1. Run it!
   1. If you got here, your almost done!
   1. Select Debug->Start without debugging.
-  1. A new window should open which simply says "Hello World".
-  1. Congratulations! You've written and run your first program.
-  1. Now take some time to read over example1.cpp and see if you can follow what's happening.
- 1. Optional: Make changes and see what happens. 
-  1. Can you figure out how to add you name to the program output?
-  1. Can you make multiple lines of data come out?
+  1. A new window should open which says:
+{{{
+Hello World
+ Before we add, numberBefore is 5 and numberAfter is 0
+ ** We called add(5,5)! **
+ After  we add, numberBefore is 5 and numberAfter is 10
+ ** We called overflow()! **
+ Our Local Char variable is 100
+ Our Local Char variable is 1
+Press any key to continue . . .
+}}}
+  1. Now take some time to read over example2.cpp and see if you can follow what's happening.
+  * How would you write you own function?
+  * Can you explain what happened when we overflowed the variable in the function overflow() ?
+   * What would the variable have been if we had put 200 into a char, and then added another 200?
+  * Try compiling the program without the (int) typecast, and look at the output. 
