@@ -74,6 +74,14 @@ int main()
 	ShowStudent(StudentTwo);
 	ShowStudent(StudentOne);
 
+	// Age our students (I guess one was on a space ship or something)
+	StudentOne.age += 1;
+	StudentTwo.age += 2;
+
+    // Show our student data
+	ShowStudent(StudentTwo);
+	ShowStudent(StudentOne);
+
 	// It's good practice to return a 0 from main. 
 	return 0;
 }
