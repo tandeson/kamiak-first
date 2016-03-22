@@ -1,0 +1,1 @@
+Shared code repository for Kamiak HS first robotics team. Will most likely contain both small training projects for C++, and eventually our 2010 robot code.
